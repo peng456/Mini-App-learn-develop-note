@@ -14,6 +14,12 @@ Mini-App  Mini Program ,小程序 开发 记录
 
 前端打算用小程序实现。
 
+
+如何选择  小程序框架，要考虑那几方面
+https://segmentfault.com/a/1190000015032596
+https://www.cnblogs.com/Smiled/p/9806781.html
+
+
 框架呢 , 在两个之间选择:  微信官方、 wepy  和  mpvue (都是GitHuB 上开源的框架)
 
 我觉得还是在  wepy  和  mpvue  之间选择吧。
@@ -26,7 +32,7 @@ wepy   :   源码   ==编译 or 实时编译  ==》 官方框架代码
  
           支持VUE、很多组件（包括VUE组件）、美团开源的框架
           
-暂时 决定 用 wepy  吧。 毕竟 它这个 实时  编译功能 真喜欢。Yeah !!!(昨天看了VUE语法白看了，也许哪天 会用 mpvue 吧 )
+暂时 决定 用 wepy  吧。 毕竟 它这个 实时  编译功能 真喜欢。Yeah !!!(昨天看了VUE语法白看了，也许哪天 会用 mpvue 吧 。二者过程应该都差不多。)
 
 开发模式
 
