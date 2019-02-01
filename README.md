@@ -48,7 +48,8 @@ wepy   :   源码   ==编译 or 实时编译  ==》 官方框架代码
    
 10、这个流程不错，接下来就是  考验  JS编程、组件等使用能力了。
 
-
+目录如下
+![https://github.com/peng456/Mini-App-learn-develop-note/blob/master/Pasted.png]
 
 
 
