@@ -59,6 +59,37 @@ wepy   :   源码   ==编译 or 实时编译  ==》 官方框架代码
 <img src="https://github.com/peng456/Mini-App-learn-develop-note/blob/master/Pasted.png" />
 
 
+有捣鼓起 MPVUE 来了
+1、我电脑是mac 按照官网教程 （http://mpvue.com/mpvue/quickstart/）
+npm install --global vue-cli@2.9  ====》 这步命令 过不去，一直失败
+
+然后 单独安装 VUE  &&  参加下面  安装了VUE 命令行 ===》 OK了。
+http://www.cnblogs.com/pengjunhao/p/6798496.html
+
+2、vue init mpvue/mpvue-quickstart mpvue-project
+
+3、cd mpvue-project
+
+4、npm install
+
+5、npm run dev
+端口 8082  是干啥的？？？
+
+src  源文件
+
+dist 目标项目  dist/wx 这个目录下 是生成的 微信目标框架（应该还可以生成其他的 比如 web 、Native 等）
+
+
+6、项目中 dist  就是生成的 ====》 官方框架代码
+
+7、用 Atom  打开 项目 myproject  ===》 修改代码   src 目录中  ===》 实时编译功能 会把 修改编译后 输入 到 dist 目录中
+
+8、《微信开发者工具》   ===》 引入  项目  ，项目位置 为  dist目录
+
+9、正常开发流程
+   修改  src 目录中  ==》《微信开发者工具》  点击  “编译”   ===》 就能看到修改  在 小程序 上的显示成果了 Yeah!!!
+   
+10、这个流程不错，接下来就是  考验  JS编程、组件等使用能力了。
 
 
 
