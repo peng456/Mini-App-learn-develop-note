@@ -51,6 +51,8 @@ wepy   :   源码   ==编译 or 实时编译  ==》 官方框架代码
 目录如下
 ![https://github.com/peng456/Mini-App-learn-develop-note/blob/master/Pasted.png]
 
+<img src="https://camo.githubusercontent.com/d0fe641cc98e6dcdff3b3e28f3f46ed47a3b5777/68747470733a2f2f7773312e73696e61696d672e636e2f6c617267652f36313134353733386c7931667139723334316a33356a323037363037363735392e6a7067" width="100" />
+
 
 
 
