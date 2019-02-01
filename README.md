@@ -73,7 +73,7 @@ http://www.cnblogs.com/pengjunhao/p/6798496.html
 4、npm install
 
 5、npm run dev
-端口 8080  是干啥的？？？
+端口 8080  是干啥的？？？  最终还是不知道这个端口干啥的？  应该是  接口？？？ 代理 （我决定先用 wepy。因为里面有现成的 例子 哈哈）
 
 一些参数 在目录中 config/*.js   dev.env.js  index.js  prod.dev.js 
 
